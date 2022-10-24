@@ -1,0 +1,41 @@
+USE [Todo]
+GO
+
+/****** Object:  Table [dbo].[ToDo]    Script Date: 10/24/2022 8:53:15 PM ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+SET ANSI_PADDING ON
+GO
+
+CREATE TABLE [dbo].[ToDo](
+	[Id] [int] IDENTITY(1,1) NOT NULL,
+	[Title] [varchar](255) NOT NULL,
+	[Contents] [varchar](255) NOT NULL,
+	[Image] [varchar](255) NULL,
+	[CreatedAt] [datetime] NOT NULL CONSTRAINT [DF_ToDo_CreatedAt]  DEFAULT (getdate()),
+	[UpdatedAt] [datetime] NOT NULL CONSTRAINT [DF_ToDo_UpdatedAt]  DEFAULT (getdate()),
+	[Archived] [bit] NOT NULL,
+	[IsRead] [bit] NOT NULL,
+	[UserId] [int] NOT NULL,
+ CONSTRAINT [PK_ToDo] PRIMARY KEY CLUSTERED 
+(
+	[Id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+
+SET ANSI_PADDING OFF
+GO
+
+ALTER TABLE [dbo].[ToDo]  WITH CHECK ADD  CONSTRAINT [UserId_ToDoId] FOREIGN KEY([UserId])
+REFERENCES [dbo].[User] ([Id])
+GO
+
+ALTER TABLE [dbo].[ToDo] CHECK CONSTRAINT [UserId_ToDoId]
+GO
+
