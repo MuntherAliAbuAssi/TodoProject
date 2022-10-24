@@ -1,0 +1,12 @@
+E:\ASPProject\ToDoProject\ToDoProject.Common\obj\Debug\net5.0\ToDoProject.Common.csproj.AssemblyReference.cache
+E:\ASPProject\ToDoProject\ToDoProject.Common\obj\Debug\net5.0\ToDoProject.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASPProject\ToDoProject\ToDoProject.Common\obj\Debug\net5.0\ToDoProject.Common.AssemblyInfoInputs.cache
+E:\ASPProject\ToDoProject\ToDoProject.Common\obj\Debug\net5.0\ToDoProject.Common.AssemblyInfo.cs
+E:\ASPProject\ToDoProject\ToDoProject.Common\obj\Debug\net5.0\ToDoProject.Common.csproj.CoreCompileInputs.cache
+E:\ASPProject\ToDoProject\ToDoProject.Common\bin\Debug\net5.0\ToDoProject.Common.deps.json
+E:\ASPProject\ToDoProject\ToDoProject.Common\bin\Debug\net5.0\ToDoProject.Common.dll
+E:\ASPProject\ToDoProject\ToDoProject.Common\bin\Debug\net5.0\ToDoProject.Common.pdb
+E:\ASPProject\ToDoProject\ToDoProject.Common\obj\Debug\net5.0\ToDoProject.Common.dll
+E:\ASPProject\ToDoProject\ToDoProject.Common\obj\Debug\net5.0\refint\ToDoProject.Common.dll
+E:\ASPProject\ToDoProject\ToDoProject.Common\obj\Debug\net5.0\ToDoProject.Common.pdb
+E:\ASPProject\ToDoProject\ToDoProject.Common\obj\Debug\net5.0\ref\ToDoProject.Common.dll

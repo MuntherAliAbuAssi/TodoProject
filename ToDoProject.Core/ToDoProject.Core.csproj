@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+	
+	<ItemGroup>
+		<PackageReference Include="AutoMapper" Version="12.0.0" />
+		<PackageReference Include="BCrypt.Net-Next" Version="4.0.3" />
+	</ItemGroup>
+	
+	<ItemGroup>
+	  <ProjectReference Include="..\ToDoProject.Common\ToDoProject.Common.csproj" />
+	  <ProjectReference Include="..\ToDoProject.DbModel\ToDoProject.DbModel.csproj" />
+	  <ProjectReference Include="..\ToDoProject.ViewModels\ToDoProject.ViewModels.csproj" />
+	</ItemGroup>
+	
+</Project>

@@ -1,0 +1,33 @@
+2022-10-24 20:24:14.962 +03:00 [ERR] LogLeveL : Error
+Log Date: 10/24/2022 5:24:14 PM +00:00
+UserId: 0
+User Email: 
+Request Path: 
+Application Name: ToDoProject
+Message: Missing type map configuration or unsupported mapping.
+Mapping types:
+User -> UserResult
+TODOProject.DbModel.Models.User -> TODOProject.ViewModel.ViewModels.UserResult
+StackTrace:   at lambda_method210(Closure , Object , UserResult , ResolutionContext )
+at TODOProject.Core.Managers.ToDoManager.<>c__DisplayClass5_0.<GetToDo>b__4(User x) in E:\ASPProject\ToDoProject\ToDoProject.Core\Managers\ToDoManager.cs:line 77
+at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement](IEnumerable`1 source, Func`2 keySelector, Func`2 elementSelector, IEqualityComparer`1 comparer)
+at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement](IEnumerable`1 source, Func`2 keySelector, Func`2 elementSelector)
+at TODOProject.Core.Managers.ToDoManager.GetToDo(Int32 page, Int32 pageSize, String sortColumn, String sortDirection, String searchText) in E:\ASPProject\ToDoProject\ToDoProject.Core\Managers\ToDoManager.cs:line 75
+at ToDoProject.Controllers.ToDoController.GetToDo(Int32 page, Int32 pageSize, String sortColumn, String sortDirection, String searchText) in E:\ASPProject\ToDoProject\ToDoProject\Controllers\ToDoController.cs:line 26
+at lambda_method199(Closure , Object , Object[] )
+at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+

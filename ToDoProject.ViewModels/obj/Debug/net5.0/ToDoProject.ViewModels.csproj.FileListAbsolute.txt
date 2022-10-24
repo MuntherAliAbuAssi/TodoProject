@@ -1,0 +1,15 @@
+E:\ASPProject\ToDoProject\ToDoProject.ViewModels\obj\Debug\net5.0\ToDoProject.ViewModels.csproj.AssemblyReference.cache
+E:\ASPProject\ToDoProject\ToDoProject.ViewModels\obj\Debug\net5.0\ToDoProject.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASPProject\ToDoProject\ToDoProject.ViewModels\obj\Debug\net5.0\ToDoProject.ViewModels.AssemblyInfoInputs.cache
+E:\ASPProject\ToDoProject\ToDoProject.ViewModels\obj\Debug\net5.0\ToDoProject.ViewModels.AssemblyInfo.cs
+E:\ASPProject\ToDoProject\ToDoProject.ViewModels\obj\Debug\net5.0\ToDoProject.ViewModels.csproj.CoreCompileInputs.cache
+E:\ASPProject\ToDoProject\ToDoProject.ViewModels\bin\Debug\net5.0\ToDoProject.ViewModels.deps.json
+E:\ASPProject\ToDoProject\ToDoProject.ViewModels\bin\Debug\net5.0\ToDoProject.ViewModels.dll
+E:\ASPProject\ToDoProject\ToDoProject.ViewModels\bin\Debug\net5.0\ToDoProject.ViewModels.pdb
+E:\ASPProject\ToDoProject\ToDoProject.ViewModels\bin\Debug\net5.0\ToDoProject.Common.dll
+E:\ASPProject\ToDoProject\ToDoProject.ViewModels\bin\Debug\net5.0\ToDoProject.Common.pdb
+E:\ASPProject\ToDoProject\ToDoProject.ViewModels\obj\Debug\net5.0\ToDoProject.ViewModels.csproj.CopyComplete
+E:\ASPProject\ToDoProject\ToDoProject.ViewModels\obj\Debug\net5.0\ToDoProject.ViewModels.dll
+E:\ASPProject\ToDoProject\ToDoProject.ViewModels\obj\Debug\net5.0\refint\ToDoProject.ViewModels.dll
+E:\ASPProject\ToDoProject\ToDoProject.ViewModels\obj\Debug\net5.0\ToDoProject.ViewModels.pdb
+E:\ASPProject\ToDoProject\ToDoProject.ViewModels\obj\Debug\net5.0\ref\ToDoProject.ViewModels.dll

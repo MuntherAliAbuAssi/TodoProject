@@ -1,0 +1,21 @@
+2022-10-24 19:27:14.582 +03:00 [ERR] LogLeveL : Error
+Log Date: 10/24/2022 4:27:14 PM +00:00
+UserId: 0
+User Email: 
+Request Path: 
+Application Name: ToDoProject
+Message: String reference not set to an instance of a String. (Parameter 's')
+StackTrace:   at System.Text.Encoding.GetBytes(String s)
+at ToDoProject.Startup.<ConfigureServices>b__5_2(JwtBearerOptions options) in E:\ASPProject\ToDoProject\ToDoProject\Startup.cs:line 90
+at Microsoft.Extensions.Options.ConfigureNamedOptions`1.Configure(String name, TOptions options)
+at Microsoft.Extensions.Options.OptionsFactory`1.Create(String name)
+at Microsoft.Extensions.Options.OptionsMonitor`1.<>c__DisplayClass11_0.<Get>b__0()
+at System.Lazy`1.ViaFactory(LazyThreadSafetyMode mode)
+at System.Lazy`1.ExecutionAndPublication(LazyHelper executionAndPublication, Boolean useDefaultConstructor)
+at System.Lazy`1.CreateValue()
+at Microsoft.AspNetCore.Authentication.AuthenticationHandler`1.InitializeAsync(AuthenticationScheme scheme, HttpContext context)
+at Microsoft.AspNetCore.Authentication.AuthenticationHandlerProvider.GetHandlerAsync(HttpContext context, String authenticationScheme)
+at Microsoft.AspNetCore.Authentication.AuthenticationService.AuthenticateAsync(HttpContext context, String scheme)
+at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+
