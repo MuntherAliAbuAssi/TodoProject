@@ -1,7 +1,7 @@
 USE [Todo]
 GO
 
-/****** Object:  Table [dbo].[User]    Script Date: 10/24/2022 8:54:16 PM ******/
+/****** Object:  Table [dbo].[User]    Script Date: 10/24/2022 8:57:12 PM ******/
 SET ANSI_NULLS ON
 GO
 
@@ -17,7 +17,7 @@ CREATE TABLE [dbo].[User](
 	[LastName] [varchar](50) NOT NULL,
 	[Email] [varchar](255) NOT NULL,
 	[Password] [varchar](255) NOT NULL,
-	[ConfirmPassword] [nchar](255) NOT NULL,
+	[ConfirmPassword] [varchar](255) NOT NULL,
 	[Image] [varchar](255) NULL,
 	[CreatedAt] [datetime] NOT NULL CONSTRAINT [DF_User_CreatedAt]  DEFAULT (getdate()),
 	[UpdatedAt] [datetime](10) NOT NULL CONSTRAINT [DF_User_UpdatedAt]  DEFAULT (getdate()),
