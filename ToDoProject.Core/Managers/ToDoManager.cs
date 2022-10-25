@@ -52,7 +52,7 @@ namespace TODOProject.Core.Managers
         public ToDoResponse GetToDo(int page = 1, int pageSize = 5, string sortColumn = "", string sortDirection = "ascending", string searchText = "")
         {
             var queryRes = _db.ToDos
-                                    .Where(a => !a.IsRead && (string.IsNullOrWhiteSpace(searchText)
+                                    .Where(a => !a.IsRead && !a.Archived && (string.IsNullOrWhiteSpace(searchText)
                                                    || (a.Title.Contains(searchText)
                                                        || a.Contents.Contains(searchText))));
 
