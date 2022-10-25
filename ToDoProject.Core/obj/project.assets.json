@@ -5874,11 +5874,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ASPProject\\ToDoProject\\ToDoProject.Core\\ToDoProject.Core.csproj",
+      "projectUniqueName": "C:\\Users\\Munther Abu Assi\\Source\\Repos\\MuntherAliAbuAssi\\TodoProject\\ToDoProject.Core\\ToDoProject.Core.csproj",
       "projectName": "ToDoProject.Core",
-      "projectPath": "E:\\ASPProject\\ToDoProject\\ToDoProject.Core\\ToDoProject.Core.csproj",
+      "projectPath": "C:\\Users\\Munther Abu Assi\\Source\\Repos\\MuntherAliAbuAssi\\TodoProject\\ToDoProject.Core\\ToDoProject.Core.csproj",
       "packagesPath": "C:\\Users\\Munther Abu Assi\\.nuget\\packages\\",
-      "outputPath": "E:\\ASPProject\\ToDoProject\\ToDoProject.Core\\obj\\",
+      "outputPath": "C:\\Users\\Munther Abu Assi\\Source\\Repos\\MuntherAliAbuAssi\\TodoProject\\ToDoProject.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Munther Abu Assi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5895,14 +5895,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "E:\\ASPProject\\ToDoProject\\ToDoProject.Common\\ToDoProject.Common.csproj": {
-              "projectPath": "E:\\ASPProject\\ToDoProject\\ToDoProject.Common\\ToDoProject.Common.csproj"
+            "C:\\Users\\Munther Abu Assi\\Source\\Repos\\MuntherAliAbuAssi\\TodoProject\\ToDoProject.Common\\ToDoProject.Common.csproj": {
+              "projectPath": "C:\\Users\\Munther Abu Assi\\Source\\Repos\\MuntherAliAbuAssi\\TodoProject\\ToDoProject.Common\\ToDoProject.Common.csproj"
             },
-            "E:\\ASPProject\\ToDoProject\\ToDoProject.DbModel\\ToDoProject.DbModel.csproj": {
-              "projectPath": "E:\\ASPProject\\ToDoProject\\ToDoProject.DbModel\\ToDoProject.DbModel.csproj"
+            "C:\\Users\\Munther Abu Assi\\Source\\Repos\\MuntherAliAbuAssi\\TodoProject\\ToDoProject.DbModel\\ToDoProject.DbModel.csproj": {
+              "projectPath": "C:\\Users\\Munther Abu Assi\\Source\\Repos\\MuntherAliAbuAssi\\TodoProject\\ToDoProject.DbModel\\ToDoProject.DbModel.csproj"
             },
-            "E:\\ASPProject\\ToDoProject\\ToDoProject.ViewModels\\ToDoProject.ViewModels.csproj": {
-              "projectPath": "E:\\ASPProject\\ToDoProject\\ToDoProject.ViewModels\\ToDoProject.ViewModels.csproj"
+            "C:\\Users\\Munther Abu Assi\\Source\\Repos\\MuntherAliAbuAssi\\TodoProject\\ToDoProject.ViewModels\\ToDoProject.ViewModels.csproj": {
+              "projectPath": "C:\\Users\\Munther Abu Assi\\Source\\Repos\\MuntherAliAbuAssi\\TodoProject\\ToDoProject.ViewModels\\ToDoProject.ViewModels.csproj"
             }
           }
         }

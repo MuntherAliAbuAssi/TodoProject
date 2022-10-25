@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ASPProject\\ToDoProject\\ToDoProject.Common\\ToDoProject.Common.csproj": {}
+    "C:\\Users\\Munther Abu Assi\\Source\\Repos\\MuntherAliAbuAssi\\TodoProject\\ToDoProject.Common\\ToDoProject.Common.csproj": {}
   },
   "projects": {
-    "E:\\ASPProject\\ToDoProject\\ToDoProject.Common\\ToDoProject.Common.csproj": {
+    "C:\\Users\\Munther Abu Assi\\Source\\Repos\\MuntherAliAbuAssi\\TodoProject\\ToDoProject.Common\\ToDoProject.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ASPProject\\ToDoProject\\ToDoProject.Common\\ToDoProject.Common.csproj",
+        "projectUniqueName": "C:\\Users\\Munther Abu Assi\\Source\\Repos\\MuntherAliAbuAssi\\TodoProject\\ToDoProject.Common\\ToDoProject.Common.csproj",
         "projectName": "ToDoProject.Common",
-        "projectPath": "E:\\ASPProject\\ToDoProject\\ToDoProject.Common\\ToDoProject.Common.csproj",
+        "projectPath": "C:\\Users\\Munther Abu Assi\\Source\\Repos\\MuntherAliAbuAssi\\TodoProject\\ToDoProject.Common\\ToDoProject.Common.csproj",
         "packagesPath": "C:\\Users\\Munther Abu Assi\\.nuget\\packages\\",
-        "outputPath": "E:\\ASPProject\\ToDoProject\\ToDoProject.Common\\obj\\",
+        "outputPath": "C:\\Users\\Munther Abu Assi\\Source\\Repos\\MuntherAliAbuAssi\\TodoProject\\ToDoProject.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Munther Abu Assi\\AppData\\Roaming\\NuGet\\NuGet.Config",

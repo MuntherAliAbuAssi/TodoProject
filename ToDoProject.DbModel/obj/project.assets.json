@@ -5862,11 +5862,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ASPProject\\ToDoProject\\ToDoProject.DbModel\\ToDoProject.DbModel.csproj",
+      "projectUniqueName": "C:\\Users\\Munther Abu Assi\\Source\\Repos\\MuntherAliAbuAssi\\TodoProject\\ToDoProject.DbModel\\ToDoProject.DbModel.csproj",
       "projectName": "ToDoProject.DbModel",
-      "projectPath": "E:\\ASPProject\\ToDoProject\\ToDoProject.DbModel\\ToDoProject.DbModel.csproj",
+      "projectPath": "C:\\Users\\Munther Abu Assi\\Source\\Repos\\MuntherAliAbuAssi\\TodoProject\\ToDoProject.DbModel\\ToDoProject.DbModel.csproj",
       "packagesPath": "C:\\Users\\Munther Abu Assi\\.nuget\\packages\\",
-      "outputPath": "E:\\ASPProject\\ToDoProject\\ToDoProject.DbModel\\obj\\",
+      "outputPath": "C:\\Users\\Munther Abu Assi\\Source\\Repos\\MuntherAliAbuAssi\\TodoProject\\ToDoProject.DbModel\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Munther Abu Assi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5883,8 +5883,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "E:\\ASPProject\\ToDoProject\\ToDoProject.Common\\ToDoProject.Common.csproj": {
-              "projectPath": "E:\\ASPProject\\ToDoProject\\ToDoProject.Common\\ToDoProject.Common.csproj"
+            "C:\\Users\\Munther Abu Assi\\Source\\Repos\\MuntherAliAbuAssi\\TodoProject\\ToDoProject.Common\\ToDoProject.Common.csproj": {
+              "projectPath": "C:\\Users\\Munther Abu Assi\\Source\\Repos\\MuntherAliAbuAssi\\TodoProject\\ToDoProject.Common\\ToDoProject.Common.csproj"
             }
           }
         }

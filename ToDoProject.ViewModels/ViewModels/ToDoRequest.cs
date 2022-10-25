@@ -13,5 +13,6 @@ namespace TODOProject.ViewModel.ViewModels
         public string Title { get; set; }
 
         public string Contents { get; set; } 
+        public string Image { get; set; }
     }
 }

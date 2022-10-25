@@ -16,3 +16,21 @@ E:\ASPProject\ToDoProject\ToDoProject.DbModel\obj\Debug\net5.0\refint\ToDoProjec
 E:\ASPProject\ToDoProject\ToDoProject.DbModel\obj\Debug\net5.0\ToDoProject.DbModel.pdb
 E:\ASPProject\ToDoProject\ToDoProject.DbModel\obj\Debug\net5.0\ToDoProject.DbModel.genruntimeconfig.cache
 E:\ASPProject\ToDoProject\ToDoProject.DbModel\obj\Debug\net5.0\ref\ToDoProject.DbModel.dll
+C:\Users\Munther Abu Assi\Source\Repos\MuntherAliAbuAssi\TodoProject\ToDoProject.DbModel\bin\Debug\net5.0\ToDoProject.DbModel.deps.json
+C:\Users\Munther Abu Assi\Source\Repos\MuntherAliAbuAssi\TodoProject\ToDoProject.DbModel\bin\Debug\net5.0\ToDoProject.DbModel.runtimeconfig.json
+C:\Users\Munther Abu Assi\Source\Repos\MuntherAliAbuAssi\TodoProject\ToDoProject.DbModel\bin\Debug\net5.0\ToDoProject.DbModel.runtimeconfig.dev.json
+C:\Users\Munther Abu Assi\Source\Repos\MuntherAliAbuAssi\TodoProject\ToDoProject.DbModel\bin\Debug\net5.0\ToDoProject.DbModel.dll
+C:\Users\Munther Abu Assi\Source\Repos\MuntherAliAbuAssi\TodoProject\ToDoProject.DbModel\bin\Debug\net5.0\ToDoProject.DbModel.pdb
+C:\Users\Munther Abu Assi\Source\Repos\MuntherAliAbuAssi\TodoProject\ToDoProject.DbModel\bin\Debug\net5.0\ToDoProject.Common.dll
+C:\Users\Munther Abu Assi\Source\Repos\MuntherAliAbuAssi\TodoProject\ToDoProject.DbModel\bin\Debug\net5.0\ToDoProject.Common.pdb
+C:\Users\Munther Abu Assi\Source\Repos\MuntherAliAbuAssi\TodoProject\ToDoProject.DbModel\obj\Debug\net5.0\ToDoProject.DbModel.csproj.AssemblyReference.cache
+C:\Users\Munther Abu Assi\Source\Repos\MuntherAliAbuAssi\TodoProject\ToDoProject.DbModel\obj\Debug\net5.0\ToDoProject.DbModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Munther Abu Assi\Source\Repos\MuntherAliAbuAssi\TodoProject\ToDoProject.DbModel\obj\Debug\net5.0\ToDoProject.DbModel.AssemblyInfoInputs.cache
+C:\Users\Munther Abu Assi\Source\Repos\MuntherAliAbuAssi\TodoProject\ToDoProject.DbModel\obj\Debug\net5.0\ToDoProject.DbModel.AssemblyInfo.cs
+C:\Users\Munther Abu Assi\Source\Repos\MuntherAliAbuAssi\TodoProject\ToDoProject.DbModel\obj\Debug\net5.0\ToDoProject.DbModel.csproj.CoreCompileInputs.cache
+C:\Users\Munther Abu Assi\Source\Repos\MuntherAliAbuAssi\TodoProject\ToDoProject.DbModel\obj\Debug\net5.0\ToDoProject.DbModel.csproj.CopyComplete
+C:\Users\Munther Abu Assi\Source\Repos\MuntherAliAbuAssi\TodoProject\ToDoProject.DbModel\obj\Debug\net5.0\ToDoProject.DbModel.dll
+C:\Users\Munther Abu Assi\Source\Repos\MuntherAliAbuAssi\TodoProject\ToDoProject.DbModel\obj\Debug\net5.0\refint\ToDoProject.DbModel.dll
+C:\Users\Munther Abu Assi\Source\Repos\MuntherAliAbuAssi\TodoProject\ToDoProject.DbModel\obj\Debug\net5.0\ToDoProject.DbModel.pdb
+C:\Users\Munther Abu Assi\Source\Repos\MuntherAliAbuAssi\TodoProject\ToDoProject.DbModel\obj\Debug\net5.0\ToDoProject.DbModel.genruntimeconfig.cache
+C:\Users\Munther Abu Assi\Source\Repos\MuntherAliAbuAssi\TodoProject\ToDoProject.DbModel\obj\Debug\net5.0\ref\ToDoProject.DbModel.dll

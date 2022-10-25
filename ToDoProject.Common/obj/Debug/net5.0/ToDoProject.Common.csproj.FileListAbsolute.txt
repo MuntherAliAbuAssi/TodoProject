@@ -10,3 +10,15 @@ E:\ASPProject\ToDoProject\ToDoProject.Common\obj\Debug\net5.0\ToDoProject.Common
 E:\ASPProject\ToDoProject\ToDoProject.Common\obj\Debug\net5.0\refint\ToDoProject.Common.dll
 E:\ASPProject\ToDoProject\ToDoProject.Common\obj\Debug\net5.0\ToDoProject.Common.pdb
 E:\ASPProject\ToDoProject\ToDoProject.Common\obj\Debug\net5.0\ref\ToDoProject.Common.dll
+C:\Users\Munther Abu Assi\Source\Repos\MuntherAliAbuAssi\TodoProject\ToDoProject.Common\bin\Debug\net5.0\ToDoProject.Common.deps.json
+C:\Users\Munther Abu Assi\Source\Repos\MuntherAliAbuAssi\TodoProject\ToDoProject.Common\bin\Debug\net5.0\ToDoProject.Common.dll
+C:\Users\Munther Abu Assi\Source\Repos\MuntherAliAbuAssi\TodoProject\ToDoProject.Common\bin\Debug\net5.0\ToDoProject.Common.pdb
+C:\Users\Munther Abu Assi\Source\Repos\MuntherAliAbuAssi\TodoProject\ToDoProject.Common\obj\Debug\net5.0\ToDoProject.Common.csproj.AssemblyReference.cache
+C:\Users\Munther Abu Assi\Source\Repos\MuntherAliAbuAssi\TodoProject\ToDoProject.Common\obj\Debug\net5.0\ToDoProject.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Munther Abu Assi\Source\Repos\MuntherAliAbuAssi\TodoProject\ToDoProject.Common\obj\Debug\net5.0\ToDoProject.Common.AssemblyInfoInputs.cache
+C:\Users\Munther Abu Assi\Source\Repos\MuntherAliAbuAssi\TodoProject\ToDoProject.Common\obj\Debug\net5.0\ToDoProject.Common.AssemblyInfo.cs
+C:\Users\Munther Abu Assi\Source\Repos\MuntherAliAbuAssi\TodoProject\ToDoProject.Common\obj\Debug\net5.0\ToDoProject.Common.csproj.CoreCompileInputs.cache
+C:\Users\Munther Abu Assi\Source\Repos\MuntherAliAbuAssi\TodoProject\ToDoProject.Common\obj\Debug\net5.0\ToDoProject.Common.dll
+C:\Users\Munther Abu Assi\Source\Repos\MuntherAliAbuAssi\TodoProject\ToDoProject.Common\obj\Debug\net5.0\refint\ToDoProject.Common.dll
+C:\Users\Munther Abu Assi\Source\Repos\MuntherAliAbuAssi\TodoProject\ToDoProject.Common\obj\Debug\net5.0\ToDoProject.Common.pdb
+C:\Users\Munther Abu Assi\Source\Repos\MuntherAliAbuAssi\TodoProject\ToDoProject.Common\obj\Debug\net5.0\ref\ToDoProject.Common.dll

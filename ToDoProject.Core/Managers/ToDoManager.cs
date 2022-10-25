@@ -113,13 +113,41 @@ namespace TODOProject.Core.Managers
 
                 toDo.Title = toDoRequest.Title;
                 toDo.Contents = toDoRequest.Contents;
+                 var url = "";
+
+                if (!string.IsNullOrWhiteSpace(toDoRequest.Image))
+                {
+                    url = Helper.Helper.SaveImage(toDoRequest.Image, "profileImages");
+                }
+
+                if (!string.IsNullOrWhiteSpace(url))
+                {
+                    var baseUrl = "https://localhost:44373/";
+                    toDo.Image = @$"{baseUrl}/api/v1/user/fileretrive/profilepic?filename={url}";
+                }
             }
             else
             {
+                var url = "";
+                var Imaging ="";
+                if (!string.IsNullOrWhiteSpace(toDoRequest.Image))
+                {
+                    url = Helper.Helper.SaveImage(toDoRequest.Image, "profileImages");
+                }
+
+
+
+                if (!string.IsNullOrWhiteSpace(url))
+                {
+                    var baseUrl = "https://localhost:44373/";
+                    Imaging = @$"{baseUrl}/api/v1/user/fileretrive/profilepic?filename={url}";
+                }
+
                 toDo = _db.ToDos.Add(new ToDo
                 {
                     Title = toDoRequest.Title,
                     Contents = toDoRequest.Contents,
+                    Image = Imaging,
                     UserId = currentUser.Id
                 }).Entity;
             }

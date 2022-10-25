@@ -13,3 +13,18 @@ E:\ASPProject\ToDoProject\ToDoProject.ViewModels\obj\Debug\net5.0\ToDoProject.Vi
 E:\ASPProject\ToDoProject\ToDoProject.ViewModels\obj\Debug\net5.0\refint\ToDoProject.ViewModels.dll
 E:\ASPProject\ToDoProject\ToDoProject.ViewModels\obj\Debug\net5.0\ToDoProject.ViewModels.pdb
 E:\ASPProject\ToDoProject\ToDoProject.ViewModels\obj\Debug\net5.0\ref\ToDoProject.ViewModels.dll
+C:\Users\Munther Abu Assi\Source\Repos\MuntherAliAbuAssi\TodoProject\ToDoProject.ViewModels\bin\Debug\net5.0\ToDoProject.ViewModels.deps.json
+C:\Users\Munther Abu Assi\Source\Repos\MuntherAliAbuAssi\TodoProject\ToDoProject.ViewModels\bin\Debug\net5.0\ToDoProject.ViewModels.dll
+C:\Users\Munther Abu Assi\Source\Repos\MuntherAliAbuAssi\TodoProject\ToDoProject.ViewModels\bin\Debug\net5.0\ToDoProject.ViewModels.pdb
+C:\Users\Munther Abu Assi\Source\Repos\MuntherAliAbuAssi\TodoProject\ToDoProject.ViewModels\bin\Debug\net5.0\ToDoProject.Common.dll
+C:\Users\Munther Abu Assi\Source\Repos\MuntherAliAbuAssi\TodoProject\ToDoProject.ViewModels\bin\Debug\net5.0\ToDoProject.Common.pdb
+C:\Users\Munther Abu Assi\Source\Repos\MuntherAliAbuAssi\TodoProject\ToDoProject.ViewModels\obj\Debug\net5.0\ToDoProject.ViewModels.csproj.AssemblyReference.cache
+C:\Users\Munther Abu Assi\Source\Repos\MuntherAliAbuAssi\TodoProject\ToDoProject.ViewModels\obj\Debug\net5.0\ToDoProject.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Munther Abu Assi\Source\Repos\MuntherAliAbuAssi\TodoProject\ToDoProject.ViewModels\obj\Debug\net5.0\ToDoProject.ViewModels.AssemblyInfoInputs.cache
+C:\Users\Munther Abu Assi\Source\Repos\MuntherAliAbuAssi\TodoProject\ToDoProject.ViewModels\obj\Debug\net5.0\ToDoProject.ViewModels.AssemblyInfo.cs
+C:\Users\Munther Abu Assi\Source\Repos\MuntherAliAbuAssi\TodoProject\ToDoProject.ViewModels\obj\Debug\net5.0\ToDoProject.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Munther Abu Assi\Source\Repos\MuntherAliAbuAssi\TodoProject\ToDoProject.ViewModels\obj\Debug\net5.0\ToDoProject.ViewModels.csproj.CopyComplete
+C:\Users\Munther Abu Assi\Source\Repos\MuntherAliAbuAssi\TodoProject\ToDoProject.ViewModels\obj\Debug\net5.0\ToDoProject.ViewModels.dll
+C:\Users\Munther Abu Assi\Source\Repos\MuntherAliAbuAssi\TodoProject\ToDoProject.ViewModels\obj\Debug\net5.0\refint\ToDoProject.ViewModels.dll
+C:\Users\Munther Abu Assi\Source\Repos\MuntherAliAbuAssi\TodoProject\ToDoProject.ViewModels\obj\Debug\net5.0\ToDoProject.ViewModels.pdb
+C:\Users\Munther Abu Assi\Source\Repos\MuntherAliAbuAssi\TodoProject\ToDoProject.ViewModels\obj\Debug\net5.0\ref\ToDoProject.ViewModels.dll

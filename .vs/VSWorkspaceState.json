@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ToDoProject.Common",
+    "\\ToDoProject.Common\\Exceptions"
   ],
+  "SelectedNode": "\\ToDoProject.Common\\Exceptions\\InvalidOperationException.cs",
   "PreviewInSolutionExplorer": false
 }

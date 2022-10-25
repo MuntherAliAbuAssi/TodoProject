@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Bs5ZuPSuVM/i/tYgrbre8njzQfP0mJwU7r5sW1JDKJ7hqZ3P1pmXvPfK6jD90TsTmvXCBe6UTnvXjNUWAUZQ8g==",
+  "dgSpecHash": "BPuU8sU9n41OMWZAyTAXBWBehsObdsQm11C+taF64zaomTe3N4fx1K8qnnc+RiHdTiE21BAtmwq8xEtoh5uGWg==",
   "success": true,
-  "projectFilePath": "E:\\ASPProject\\ToDoProject\\ToDoProject.ViewModels\\ToDoProject.ViewModels.csproj",
+  "projectFilePath": "C:\\Users\\Munther Abu Assi\\Source\\Repos\\MuntherAliAbuAssi\\TodoProject\\ToDoProject.ViewModels\\ToDoProject.ViewModels.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Munther Abu Assi\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
     "C:\\Users\\Munther Abu Assi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

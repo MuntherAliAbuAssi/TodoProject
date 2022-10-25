@@ -17,3 +17,22 @@ E:\ASPProject\ToDoProject\ToDoProject.Core\obj\Debug\net5.0\ToDoProject.Core.dll
 E:\ASPProject\ToDoProject\ToDoProject.Core\obj\Debug\net5.0\refint\ToDoProject.Core.dll
 E:\ASPProject\ToDoProject\ToDoProject.Core\obj\Debug\net5.0\ToDoProject.Core.pdb
 E:\ASPProject\ToDoProject\ToDoProject.Core\obj\Debug\net5.0\ref\ToDoProject.Core.dll
+C:\Users\Munther Abu Assi\Source\Repos\MuntherAliAbuAssi\TodoProject\ToDoProject.Core\bin\Debug\net5.0\ToDoProject.Core.deps.json
+C:\Users\Munther Abu Assi\Source\Repos\MuntherAliAbuAssi\TodoProject\ToDoProject.Core\bin\Debug\net5.0\ToDoProject.Core.dll
+C:\Users\Munther Abu Assi\Source\Repos\MuntherAliAbuAssi\TodoProject\ToDoProject.Core\bin\Debug\net5.0\ToDoProject.Core.pdb
+C:\Users\Munther Abu Assi\Source\Repos\MuntherAliAbuAssi\TodoProject\ToDoProject.Core\bin\Debug\net5.0\ToDoProject.Common.dll
+C:\Users\Munther Abu Assi\Source\Repos\MuntherAliAbuAssi\TodoProject\ToDoProject.Core\bin\Debug\net5.0\ToDoProject.DbModel.dll
+C:\Users\Munther Abu Assi\Source\Repos\MuntherAliAbuAssi\TodoProject\ToDoProject.Core\bin\Debug\net5.0\ToDoProject.ViewModels.dll
+C:\Users\Munther Abu Assi\Source\Repos\MuntherAliAbuAssi\TodoProject\ToDoProject.Core\bin\Debug\net5.0\ToDoProject.Common.pdb
+C:\Users\Munther Abu Assi\Source\Repos\MuntherAliAbuAssi\TodoProject\ToDoProject.Core\bin\Debug\net5.0\ToDoProject.DbModel.pdb
+C:\Users\Munther Abu Assi\Source\Repos\MuntherAliAbuAssi\TodoProject\ToDoProject.Core\bin\Debug\net5.0\ToDoProject.ViewModels.pdb
+C:\Users\Munther Abu Assi\Source\Repos\MuntherAliAbuAssi\TodoProject\ToDoProject.Core\obj\Debug\net5.0\ToDoProject.Core.csproj.AssemblyReference.cache
+C:\Users\Munther Abu Assi\Source\Repos\MuntherAliAbuAssi\TodoProject\ToDoProject.Core\obj\Debug\net5.0\ToDoProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Munther Abu Assi\Source\Repos\MuntherAliAbuAssi\TodoProject\ToDoProject.Core\obj\Debug\net5.0\ToDoProject.Core.AssemblyInfoInputs.cache
+C:\Users\Munther Abu Assi\Source\Repos\MuntherAliAbuAssi\TodoProject\ToDoProject.Core\obj\Debug\net5.0\ToDoProject.Core.AssemblyInfo.cs
+C:\Users\Munther Abu Assi\Source\Repos\MuntherAliAbuAssi\TodoProject\ToDoProject.Core\obj\Debug\net5.0\ToDoProject.Core.csproj.CoreCompileInputs.cache
+C:\Users\Munther Abu Assi\Source\Repos\MuntherAliAbuAssi\TodoProject\ToDoProject.Core\obj\Debug\net5.0\ToDoProject.Core.csproj.CopyComplete
+C:\Users\Munther Abu Assi\Source\Repos\MuntherAliAbuAssi\TodoProject\ToDoProject.Core\obj\Debug\net5.0\ToDoProject.Core.dll
+C:\Users\Munther Abu Assi\Source\Repos\MuntherAliAbuAssi\TodoProject\ToDoProject.Core\obj\Debug\net5.0\refint\ToDoProject.Core.dll
+C:\Users\Munther Abu Assi\Source\Repos\MuntherAliAbuAssi\TodoProject\ToDoProject.Core\obj\Debug\net5.0\ToDoProject.Core.pdb
+C:\Users\Munther Abu Assi\Source\Repos\MuntherAliAbuAssi\TodoProject\ToDoProject.Core\obj\Debug\net5.0\ref\ToDoProject.Core.dll

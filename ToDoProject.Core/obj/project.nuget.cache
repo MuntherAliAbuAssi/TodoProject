@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gntk4tX9xHMNAwVJL3spjwfNcg69oPHbydVEzCYMoeUhDcFsPRtJhdHpXvEHpxHJCDVeHL5GBf+zIpRA+MwnNQ==",
+  "dgSpecHash": "bggCeeDxBUhWbHG8TrEvENcY+eizFxtWNITzUWUTXOoHhjyABOWCcb++uzekyOAcjLiVB8/5r3Z5oZDoewNjoA==",
   "success": true,
-  "projectFilePath": "E:\\ASPProject\\ToDoProject\\ToDoProject.Core\\ToDoProject.Core.csproj",
+  "projectFilePath": "C:\\Users\\Munther Abu Assi\\Source\\Repos\\MuntherAliAbuAssi\\TodoProject\\ToDoProject.Core\\ToDoProject.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Munther Abu Assi\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\Munther Abu Assi\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
